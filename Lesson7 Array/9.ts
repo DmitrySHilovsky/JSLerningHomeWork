@@ -34,4 +34,3 @@ console.log(sumMatrix / matrix.length);
 // console.log(sumMassivv);
 
 
-
